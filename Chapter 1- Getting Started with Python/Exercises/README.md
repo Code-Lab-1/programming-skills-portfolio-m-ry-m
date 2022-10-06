@@ -29,6 +29,8 @@ print('Twinkle, twinkle, little star,\n\t How I wonder what you are!\n\t\t Up ab
 
  Write a Python program to get the Python version you are using.
 
+import sys
+print('Python version:', sys.version)
 
 &nbsp;
 &nbsp;
