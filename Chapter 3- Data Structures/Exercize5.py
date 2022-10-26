@@ -13,6 +13,7 @@ print('HI',gst[1],'Didn\'t forget to invite you this time, let\'s meet up for di
 print('WELCOME',gst[2],'Finally some free time,See you at dinner at my place')
 print('YO',gst[3],'Another dinner invitation coming up, See you at my place')
 
+print("Unfortunately,Tayyaba can't make it to dinner.")
 gst.remove('Tayyaba')
 gst.insert(0,'Hina')
 
