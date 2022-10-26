@@ -1,8 +1,4 @@
-#Exercize1
-Fame=str('Nice to meet you')
-print(Fame)
-Fame=str('You can do it, Keep going')
-print(Fame)
+
 #Exercize2
 print('Jalal ud din Muhammad Rumi once said,\"Whatever you lost through fate, be certain that it saved you from pain\"')
 #Exercize3 Stripping names
