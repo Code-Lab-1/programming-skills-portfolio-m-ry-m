@@ -28,9 +28,6 @@ Twinkle, twinkle, little star,
 
  Write a Python program to get the Python version you are using.
 
-import sys
-print('Python version:', sys.version)
-
 &nbsp;
 &nbsp;
 &nbsp;
@@ -38,14 +35,7 @@ print('Python version:', sys.version)
 
 Write a Python program to display the current date and time.
 
-#Exercize3 Print Date and Time
-from datetime import date
-td=date.today()
-print('Today\'s Date: ',td)
-from datetime import datetime
-tm= datetime.now()
-t= tm.strftime('%H : %M : %S')
-print("Time: ",t)
+
 
 &nbsp;
 &nbsp;
@@ -56,10 +46,7 @@ Write three strings in different variables and print the output as one string.
 &nbsp;
 &nbsp;
 
-a='I'
-b='am'
-c='You'
-print(a+b+c)
+
 
 ## Exercise 5: Compute area of Circle :ballot_box_with_check:
 
