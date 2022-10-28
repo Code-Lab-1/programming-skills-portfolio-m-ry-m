@@ -9,3 +9,5 @@ glossary = {
     'conditional test': 'A comparison between two values.',
     'boolean ': 'represents one of two values, True or False',
     }
+for i,j in glossary.items():
+    print('\n'+i+':'+j)
