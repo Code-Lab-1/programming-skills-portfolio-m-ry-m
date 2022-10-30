@@ -1,7 +1,4 @@
 #Exercise 5: Pets
-from unicodedata import name
-
-
 pt={'Kind of animal':'Cat','name':'Kitty','Owner':'Nour'}
 ppt={'Kind of anime':'Hamster','name':'Cucu','Owner':'Seba'}
 ptt={'Kind of animal':'Snake','name':'snipet','Owner':'Afeefa'}
