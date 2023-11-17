@@ -15,6 +15,11 @@ Assign a message to a variable, and print that message.
 Then change the value of the variable to a new message, and print the new
 message.
 
+Fame=str('Nice to meet you')
+print(Fame)
+Fame=str('You can do it, Keep going')
+print(Fame)
+
 &nbsp;
 &nbsp;
 &nbsp;
